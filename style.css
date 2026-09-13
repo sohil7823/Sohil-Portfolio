@@ -45,7 +45,7 @@ section {
 
 #home {
     text-align: center;
-    padding-top: 150px;
+    padding-top: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
